@@ -1,0 +1,462 @@
+[
+  {
+    "q": "Wat zijn middelen?",
+    "options": [
+      "Alleen je spaargeld",
+      "Alle gratis goederen",
+      "Alleen producten in winkels",
+      "Dingen zoals geld en tijd om behoeften te vervullen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is een primaire behoefte?",
+    "options": [
+      "Voedsel",
+      "Een merktrui",
+      "Een vakantie",
+      "Een gameconsole"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is een secundaire behoefte?",
+    "options": [
+      "Een nieuwe spelcomputer",
+      "Drinkwater",
+      "Een veilige woning",
+      "Basisvoedsel"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Waarom stel je prioriteiten?",
+    "options": [
+      "Omdat behoeften nooit veranderen",
+      "Omdat geld onbeperkt is",
+      "Omdat je niet alles tegelijk kunt betalen",
+      "Omdat alle producten even duur zijn"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat betekent schaarste in economie?",
+    "options": [
+      "Er zijn maar tien stuks",
+      "Een product is gratis",
+      "Een product is altijd uitverkocht",
+      "Er zijn middelen nodig om een product te maken"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Hoe noem je goederen waarvoor geen schaarse middelen nodig zijn?",
+    "options": [
+      "Kapitaalgoederen",
+      "Consumptiegoederen",
+      "Vrije goederen",
+      "Luxe goederen"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Welke keuze is een voorbeeld van zelfvoorziening?",
+    "options": [
+      "Een abonnement afsluiten",
+      "Een pizza bestellen",
+      "Zelf groenten verbouwen",
+      "Een jas kopen"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is consumeren?",
+    "options": [
+      "Goederen en diensten gebruiken om behoeften te vervullen",
+      "Belasting betalen",
+      "Alleen geld sparen",
+      "Alleen produceren voor verkoop"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke factor kan je koopgedrag beïnvloeden?",
+    "options": [
+      "Alleen het weer",
+      "Reclame van influencers",
+      "Je banksaldo nooit",
+      "Niets, koopgedrag staat vast"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Waarom verandert koopgedrag soms?",
+    "options": [
+      "Omdat reclame verboden is",
+      "Omdat prijzen nooit veranderen",
+      "Door een verandering in inkomen of smaak",
+      "Omdat iedereen hetzelfde wil"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Waarom zijn jongeren interessant voor bedrijven?",
+    "options": [
+      "Ze kopen nooit online",
+      "Ze kopen zelf en beïnvloeden aankopen thuis",
+      "Ze hebben altijd een hoog salaris",
+      "Ze betalen geen prijzen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is informatieve reclame?",
+    "options": [
+      "Reclame die altijd van de overheid komt",
+      "Reclame zonder informatie",
+      "Reclame die productkenmerken uitlegt",
+      "Reclame die alleen gevoelens oproept"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Welke reclame probeert vooral een gevoel op te roepen?",
+    "options": [
+      "Sfeervolle reclame",
+      "Een handleiding",
+      "Een kassabon",
+      "Een prijslijst"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke P van marketing gaat over hoeveel iets kost?",
+    "options": [
+      "Personeel",
+      "Product",
+      "Plaats",
+      "Prijs"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Welke P gaat over waar je iets kunt kopen?",
+    "options": [
+      "Presentatie",
+      "Prijs",
+      "Promotie",
+      "Plaats"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Welke P gaat over advertenties en acties?",
+    "options": [
+      "Promotie",
+      "Product",
+      "Personeel",
+      "Plaats"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke P gaat over de eigenschappen van wat je verkoopt?",
+    "options": [
+      "Product",
+      "Prijs",
+      "Plaats",
+      "Promotie"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke P gaat over de medewerkers in een winkel?",
+    "options": [
+      "Prijs",
+      "Plaats",
+      "Product",
+      "Personeel"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Welke P gaat over de uitstraling en inrichting van de winkel?",
+    "options": [
+      "Product",
+      "Personeel",
+      "Presentatie",
+      "Prijs"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat doet een consumentenorganisatie?",
+    "options": [
+      "Zelf belasting heffen",
+      "Consumenten informeren en hun belangen behartigen",
+      "Alle prijzen bepalen",
+      "Bankbiljetten drukken"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Welke bron is meestal handig om producten eerlijk te vergelijken?",
+    "options": [
+      "Alleen de reclame van het merk",
+      "Een anonieme advertentie",
+      "Een onafhankelijke producttest",
+      "Alleen de verpakking"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is een mogelijk gevolg van je aankoop voor het milieu?",
+    "options": [
+      "Meer afval en CO₂-uitstoot",
+      "Altijd minder energiegebruik",
+      "Geen enkel gevolg",
+      "Altijd minder vervoer"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Waarvoor helpt een keurmerk?",
+    "options": [
+      "Om eigenschappen zoals duurzaamheid te herkennen",
+      "Om elk product gratis te maken",
+      "Om betalen overbodig te maken",
+      "Om alle prijzen gelijk te maken"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is inkomen uit arbeid?",
+    "options": [
+      "Loon voor je werk",
+      "Rente op spaargeld",
+      "Een gewonnen prijs",
+      "Kinderbijslag"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is inkomen uit bezit?",
+    "options": [
+      "Studiefinanciering",
+      "Rente over spaargeld",
+      "Salaris",
+      "Bijstand"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is een overdrachtsinkomen?",
+    "options": [
+      "Winst uit je winkel",
+      "Een uitkering",
+      "Loon uit een bijbaan",
+      "Huurinkomsten"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Welke factor kan inkomensverschillen verklaren?",
+    "options": [
+      "Iedereen werkt evenveel uren",
+      "Iedereen heeft dezelfde baan",
+      "Alle lonen zijn wettelijk gelijk",
+      "Verschil in opleiding en werkervaring"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat betekent welvaart?",
+    "options": [
+      "Alleen je gezondheid",
+      "De mate waarin je behoeften met middelen kunt vervullen",
+      "Alleen hoe gelukkig je bent",
+      "Het aantal vrienden dat je hebt"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat betekent welzijn?",
+    "options": [
+      "Hoe goed je je voelt en hoe prettig je leeft",
+      "Alleen hoeveel geld je bezit",
+      "Alleen je spaarrente",
+      "Alleen je maandloon"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke uitgave is een vaste last?",
+    "options": [
+      "Maandelijkse huur",
+      "Een ijsje",
+      "Een bioscoopkaartje",
+      "Een nieuwe trui"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke uitgave is een dagelijkse uitgave?",
+    "options": [
+      "Een nieuwe wasmachine",
+      "Boodschappen",
+      "Jaarlijkse vakantie",
+      "Een auto kopen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Welke uitgave is een incidentele uitgave?",
+    "options": [
+      "Een nieuwe fiets",
+      "Maandelijks internetabonnement",
+      "De maandelijkse huur",
+      "Wekelijkse boodschappen"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat betekent budgetteren?",
+    "options": [
+      "Altijd contant betalen",
+      "Alleen lenen",
+      "Zonder nadenken geld uitgeven",
+      "Je inkomsten en uitgaven plannen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat staat normaal op de linkerkant van een begroting?",
+    "options": [
+      "Schulden van de bank",
+      "Uitgaven",
+      "Inkomsten",
+      "Alleen spaargeld"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat kun je doen bij een tekort op je begroting?",
+    "options": [
+      "Je inkomsten negeren",
+      "Minder uitgeven of extra verdienen",
+      "Meer uitgeven",
+      "Altijd duurder lenen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Welke kosten horen bij autorijden?",
+    "options": [
+      "Brandstof, verzekering, belasting en onderhoud",
+      "Alleen parkeren",
+      "Alleen aanschafprijs",
+      "Alleen benzine"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welke geldfunctie gebruik je als je in de winkel afrekent?",
+    "options": [
+      "Rekeneenheid",
+      "Ruilmiddel",
+      "Beleggingsrisico",
+      "Spaarmiddel"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Welke geldfunctie gebruik je om prijzen te vergelijken?",
+    "options": [
+      "Leenmiddel",
+      "Ruilmiddel",
+      "Kredietmiddel",
+      "Rekeneenheid"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is chartaal geld?",
+    "options": [
+      "Geld op je betaalrekening",
+      "Een bankoverschrijving",
+      "Een pinbetaling",
+      "Munten en bankbiljetten"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is giraal geld?",
+    "options": [
+      "Goud in een kluis",
+      "Alleen bankbiljetten",
+      "Geld op bankrekeningen",
+      "Alleen munten"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat probeert de ECB met haar rentebeleid te bewaken?",
+    "options": [
+      "Prijsstabiliteit van de euro",
+      "Dat alle producten gratis worden",
+      "Dat niemand meer spaart",
+      "Dat iedereen evenveel verdient"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Welk spaarmotief hoort bij sparen voor een onverwachte reparatie?",
+    "options": [
+      "Vermogensmotief",
+      "Leenmotief",
+      "Voorzorgsmotief",
+      "Doelmotief"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is een spaardeposito?",
+    "options": [
+      "Een lening voor een huis",
+      "Spaargeld dat je voor een afgesproken tijd vastzet",
+      "Contant geld in je portemonnee",
+      "Een betaalpas"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat gebeurt er met de koopkracht van spaargeld bij inflatie, zonder voldoende rente?",
+    "options": [
+      "Die blijft altijd gelijk",
+      "Die daalt",
+      "Die verdubbelt",
+      "Die stijgt altijd"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is een voorbeeld van beleggen?",
+    "options": [
+      "Contant afrekenen",
+      "Geld op je betaalrekening laten staan",
+      "Aandelen kopen",
+      "Een kassabon bewaren"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is een hypothecaire lening?",
+    "options": [
+      "Een gewone pinbetaling",
+      "Een vorm van salaris",
+      "Een lening met een woning als onderpand",
+      "Een lening zonder rente"
+    ],
+    "correct": 2
+  }
+]
